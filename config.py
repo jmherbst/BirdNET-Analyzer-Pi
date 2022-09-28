@@ -1,7 +1,7 @@
 #################
 # Misc settings #
 #################
-
+# TEST
 ## Random seed for gaussian noise
 RANDOM_SEED = 42
 
